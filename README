@@ -2,6 +2,6 @@ Projet réalisé dans le cadre du cours LIF11 : logique classique de l'universit
 
 Professeur : Emmanuel Coquery
 
-Le but du projet fût de coder un solveur SAT ( un solveur qui dit si une formule booleene est satisfiable ou pas ).
+Le but du projet était de coder un solveur SAT ( un solveur indiquant si une formule booleene est satisfiable ou pas ).
 
-Le prof nous ayant fournis un code de base, j'ai écris le fichier Main.cpp ainsi que les fichiers Solveur.cpp et Solveur.hpp
+Le prof nous ayant fourni un code de base, j'ai écris le fichier Main.cpp ainsi que les fichiers Solveur.cpp et Solveur.hpp
